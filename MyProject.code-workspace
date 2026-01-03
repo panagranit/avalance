@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "path": "src" },
+    { "path": "tests" },
+    { "path": "data" },
+    { "path": "docs" }
+  ],
+  "settings": {}
+}
